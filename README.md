@@ -1,2 +1,2 @@
-# Enter-Week-2
-he code performs essential data exploration, cleaning, and visualization steps to understand the characteristics of the solar power generation dataset. This preliminary analysis lays the groundwork for further steps like feature engineering and model building for solar power prediction
+# Enter-Week-3
+This process uses a machine learning technique called Linear Regression to predict solar power generation. It involves training a model on historical data with features like weather conditions and time of day to learn the relationship between these features and power output. Once trained, the model can predict power generation for new input data. The accuracy of the model is evaluated using metrics like Mean Squared Error (MSE), with lower values indicating better performance.
